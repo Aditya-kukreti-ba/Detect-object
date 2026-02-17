@@ -1,6 +1,8 @@
 flask==3.0.0
 flask-cors==4.0.0
-transformers==4.36.0
-torch==2.1.0
+transformers==4.51.3
+torch==2.10.0
 pillow==10.1.0
 requests==2.31.0
+numpy==1.26.4
+gunicorn==21.2.0
